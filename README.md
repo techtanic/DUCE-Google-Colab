@@ -8,17 +8,17 @@
     <br/>
 </p>
 
-<p align=center>
-<a href="https://colab.research.google.com/github/techtanic/DUCE-Google-Colab"><img alt="Colab" src="https://img.shields.io/static/v1?message=Open in Colab&logo=Google-Colab&labelColor=5c5c5c&color=1182c3&label=%20&style=flat-square"></a>
-</p>
-
 # Discounted Udemy Course Enroller (Google-Colab Edition)
 
 >Script to enroll in available Udemy Paid/Free courses having coupons automatically to your Udemy account.
 
+## Usage:
+<a href="https://colab.research.google.com/github/techtanic/DUCE-Google-Colab"><img alt="Colab" src="https://img.shields.io/static/v1?message=Open in Colab&logo=Google-Colab&labelColor=5c5c5c&color=1182c3&label=%20&style=flat-square"></a>
+
+
 ## Gui version can be found [here](https://techtanic.github.io/duce/)
 
-## Donate
+## Donate:
 
 BTC `bc1qdyjwj0eqxjk5hxejah4gyclrumwtqs3hqp63uz` 
 
