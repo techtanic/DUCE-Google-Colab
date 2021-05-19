@@ -14,7 +14,7 @@
 
 ## Usage:
 
-<a href="https://colab.research.google.com/github/techtanic/DUCE-Google-Colab"><img alt="Colab" src="https://img.shields.io/static/v1?message=Open%20in%20Colab&logo=Google-Colab&labelColor=5c5c5c&color=1182c3&label=%20&style=for-the-badge"></a>
+<a href="https://colab.research.google.com/github/techtanic/DUCE-Google-Colab/blob/master/DUCE.ipynb"><img alt="Colab" src="https://img.shields.io/static/v1?message=Open%20in%20Colab&logo=Google-Colab&labelColor=5c5c5c&color=1182c3&label=%20&style=for-the-badge"></a>
 
 ## Gui version can be found [here](https://techtanic.github.io/duce/)
 
